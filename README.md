@@ -3,6 +3,9 @@
 此網頁為前端互動練習頁面，
 包含圖片點擊切換與簡易使用者切換及留言功能。
 
+##  預覽
+https://aeunicronntd.github.io/F1/
+
 ##  使用技術
 - HTML
 - CSS
@@ -18,8 +21,7 @@
 - 使用者輸入與事件處理
 - 頁面資料顯示
 
-##  預覽
-https://aeunicronntd.github.io/F1/
+
 
 ##  備註
 此專案為學習用途。
